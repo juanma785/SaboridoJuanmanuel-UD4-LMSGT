@@ -1,0 +1,8 @@
+
+<!ELEMENT BDModulos (BDModulos)>
+<!ELEMENT MBDModulos (Nombre, Contenidos)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Contenidos (UD+)>
+<!ELEMENT UD (Tipo, Descripcion)>
+<!ELEMENT Tipo (#PCDATA)>
+<!ELEMENT Descripcion (#PCDATA)>

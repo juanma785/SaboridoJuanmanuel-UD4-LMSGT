@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE BDEditorial SYSTEM "BDEditorial.dtd">
+<BDclientes xml:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<xsi:schemaLocation="http.//www.gmrv.es BDEditorial.xsd">
+<ventas>
+<descripcion>informe de ventas para las regiones Norte, Centro y Sur</descripcion>
+  <fecha>30/12/2009</fecha>
+  <cabecera>Informe de Ventas 2022</cabecera>
+
+  <regiones>
+    <region nombre="norte">
+      <nombre>Norte</nombre>
+      <trimestres>
+        <trimestre numero="1">
+          <numero valor="1">1</numero>
+          <libros>2400</libros>
+        </trimestre>
+
+
+        <trimestre numero="2">
+          <numero valor="2">2</numero>
+          <libros>38600</libros>
+        </trimestre>
+
+
+        <trimestre numero="3">
+          <numero valor="3">3</numero>
+          <libros>NO_INFO</libros>
+        </trimestre>
+
+
+        <trimestre numero="4">
+          <numero valor="4">4</numero>
+          <libros>NO_INFO</libros>
+        </trimestre>
+
+      </trimestres>
+
+
+    </region>
+    <region nombre="centro">
+      <nombre>Centro</nombre>
+      <trimestres>
+        <trimestre numero="1">
+          <numero valor="1">1</numero>
+          <libros>NO_INFO</libros>
+        </trimestre>
+
+
+        <trimestre numero="2">
+          <numero valor="2">2</numero>
+          <libros>16080</libros>
+        </trimestre>
+
+
+        <trimestre numero="3">
+          <numero valor="3">3</numero>
+          <libros>25000</libros>
+        </trimestre>
+
+
+        <trimestre numero="4">
+          <numero valor="4">4</numero>
+          <libros>29000</libros>
+          <trimestre>
+
+          </trimestres>
+
+          </region>
+
+
+
+
+          <region nombre="sur">
+      <nombre>Sur</nombre>
+      <trimestres>
+        <trimestre numero="1">
+          <numero valor="1">1</numero>
+          <libros>27000</libros>
+        </trimestre>
+
+
+        <trimestre numero="2">
+          <numero valor="2">2</numero>
+          <libros>31400</libros>
+        </trimestre>
+
+
+        <trimestre numero="3">
+          <numero valor="3">3</numero>
+          <libros>40100</libros>
+        </trimestre>
+
+
+        <trimestre numero="4">
+          <numero valor="4">4</numero>
+          <libros>30000</libros>
+          <trimestre>
+
+          </trimestres>
+
+          </region>
+
+

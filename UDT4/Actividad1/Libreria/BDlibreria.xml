@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE BDLibreria SYSTEM "BDLibreria.dtd">
+<BDLibreria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<xsi:schemaLocation="http.//www.gmrv.es BDLibreria.xsd">
+
+ <librerias>
+    <libro id="1">
+        <título>El asesino indeble</título>
+        <autor>
+        <nombre>Marcos </nombre>
+        <apellido>Nieto</apellidos>
+        </autor>
+        <editoriales>EDICIONES B</editoriales>
+        <ISBN>9781980463870</ISBN>
+        <fecha-publicación>16 de diciembre de 2015</fecha-publicación>
+    </libro>
+
+    <libro id="2">
+        <título>Don Quijote de la Mancha</título>
+        <autor>
+        <nombre>Miguel</nombre>
+        <apellido> de Cervantes</apellido>
+        </autor>
+        <editoriales>Agustín Jubera editor</editoriales>
+        <ISBN>9780936388878</ISBN>
+        <fecha-publicación>1605</fecha-publicación>
+    </libro>
+
+    <libro id="3">
+        <título>Las manos cortadas</título>
+        <autor>
+       <nombre> Luisgé</nombre>
+        <apellido> Martin</apellido>
+        </autor>
+        <editoriales>Alfraguara</editoriales>
+        <ISBN>9788420474731</ISBN>
+        <fecha-publicación>2009</fecha-publicación>
+    </libro>
+
+    <libro id="4">
+        <título>Niebla</título>
+        <autor>
+       <nombre> Miguel </nombre>
+      <apellido>  de Unamuno</apellido>
+        </autor>
+        <editoriales>Delbolsillo</editoriales>
+        <ISBN>9780451223296</ISBN>
+        <fecha-publicación>1914</fecha-publicación>
+    </libro>
+
+    <libro id="5">
+        <título>Romancero gitano</título>
+        <autor>
+      <nombre>  Federico </nombre>
+       <apellido> García</apellido>
+        </autor>
+        <editoriales>Juan Régulo Pérez</editoriales>
+        <ISBN>9780719078255</ISBN>
+        <fecha-publicación>1928</fecha-publicación>
+    </libro>
+
+    <libro id="6">
+        <título>La gitanilla</título>
+        <autor>
+       <nombre> Miguel </nombre>
+       <apellido> de Cervantes</apellido>
+        </autor>
+        <editoriales>Imprenta de Juan de la Cuesta</editoriales>
+        <ISBN>9788853607805</ISBN>
+        <fecha-publicación>1613</fecha-publicación>
+    </libro>
+
+    <libro id="7">
+        <título>Lejos del corazón</título>
+        <autor>
+      <nombre>  Lorenzo </nombre>
+        <apellido>Silva</apellido>
+        </autor>
+        <editoriales>Ediciones Destino</editoriales>
+        <ISBN>9788423353903</ISBN>
+        <fecha-publicación>24 de mayo de 2018</fecha-publicación>
+    </libro>
+
+    <libro id="8">
+        <título>Campos de Castilla</título>
+        <autor>
+       <nombre> Antonio</nombre>
+       <apellido>  Machado</apellido>
+        </autor>
+        <editoriales>Alianza</editoriales>
+        <ISBN>9788420675763</ISBN>
+        <fecha-publicación>abril de 1912</fecha-publicación>
+    </libro>
+
+    <libro id="9">
+        <título>El juego del alma</título>
+        <autor>
+       <nombre> Javier </nombre>
+      <apellido>  Castillo</apellido>
+        </autor>
+        <editoriales>SUMA DE LETRAS</editoriales>
+        <ISBN>9788491293545</ISBN>
+        <fecha-publicación>25 de marzo de 2021</fecha-publicación>
+    </libro>
+
+    <libro id="10">
+        <título>El espejo enterrado</título>
+        <autor>
+       <nombre> Carlos </nombre>
+       <apellido> Fuentes</apellido>
+        </autor>
+        <editoriales>DEBOLSILLO; 001 edición</editoriales>
+        <ISBN> 8466333533</ISBN>
+        <fecha-publicación>1992</fecha-publicación>
+    </libro>
+
+</libreria>

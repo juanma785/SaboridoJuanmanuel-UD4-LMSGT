@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE BDConcesionario SYSTEM "BDConcesionario.dtd">
+<BDConcesionario xml:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<xsi:schemaLocation="http.//www.gmrv.es BDConcesionario.xsd">
+
+<concesionario>
+
+<Coche>
+    <Cod-coche>1</Cod-coche>
+<marca>Lexus</marca>
+<modelo>Lexus CT</modelo>
+<matricula>0000 SXD</matricula>
+<potencia>82-136 CV</potencia>
+<plazas>5</plazas>
+<num-puertas>4</num-puertas>
+</Coche>
+
+
+<Coche>
+    <Cod-coche>2</Cod-coche>
+<marca>Automobile Dacia</marca>
+<modelo>Dacia Duster</modelo>
+<matricula>3685 HDP</matricula>
+<potencia>101 CV</potencia>
+<plazas>5<plazas>
+<num-puertas>4<num-puertas>
+</Coche>
+
+
+
+    <Cod-coche>3</xs:Cod-coche>
+<marca>KIA Picante</xs:marca>
+<modelo>KIA</xs:modelo>
+<matricula>1111 AAAA</xs:matricula>
+<potencia>67-101 CV</xs:potencia>
+<plazas>5</plazas>
+<num-puertas>4</num-puertas>
+</Coche>
+
+
+<Coche>
+    <Cod-coche>4</Cod-coche>
+<marca>MINI MINI Clubman</marca>
+<modelo>MINI</modelo>
+<matricula>6661 HXW</matricula>
+<potencia>136-306 CV</potencia>
+<plazas>5</plazas>
+<num-puertas>4</num-puertas>
+</Coche>
+
+
+<Coche>
+    <Cod-coche>5</Cod-coche>
+<marca>Aston Martin DB11</marca>
+<modelo>Aston Martin</modelo>
+<matricula>6774 FXS</matricula>
+<potencia>510-519 CV</potencia>
+<plazas>2</plazas>
+<num-puertas>2</num-puertas>
+</Coche>
+
+
+<Coche>
+    <Cod-coche>6</Cod-coche>
+<marca>Renault</marca>
+<modelo>Twingo</modelo>
+<matricula>2511 WDJ</matricula>
+<potencia>82 CV</potencia>
+<plazas>4</plazas>
+<num-puertas>4</num-puertas>
+</Coche>
+
+
+<Coche>
+    <Cod-coche>7</Cod-coche>
+<marca>Ferrari</marca>
+<modelo>J50</modelo>
+<matricula>5649 JSN</matricula>
+<potencia>690 CV</potencia>
+<plazas>2</plazas>
+<num-puertas>2</num-puertas>
+</Coche>
+
+
+<Coche>
+    <Cod-coche>8</Cod-coche>
+<marca>Lamborghini</marca>
+<modelo>Aventador</modelo>
+<matricula>6852 KWS</matricula>
+<potencia>740 CV</potencia>
+<plazas>2</plazas>
+<num-puertas>2</num-puertas>
+</Coche>
+
+
+<Coche>
+    <Cod-coche>9</Cod-coche>
+<marca>Renault</marca>
+<modelo>Scenic 2</modelo>
+<matricula>1234 XYZ</matricula>
+<potencia>130 CV</potencia>
+<plazas>5</plazas>
+<num-puertas>4</num-puertas>
+</Coche>
+
+
+<Coche>
+    <Cod-coche>10</Cod-coche>
+<marca>Maserati</marca>
+<modelo>Levante</modelo>
+<matricula></matricula>
+<potencia>275-580 CV </potencia>
+<plazas>5</plazas>
+<num-puertas>4</num-puertas>
+</Coche>
+
+</concesionario>

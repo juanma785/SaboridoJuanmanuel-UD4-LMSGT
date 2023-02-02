@@ -1,0 +1,11 @@
+<!DOCTYPE concesionario [
+  <!ELEMENT concesionario (Coche+)>
+  <!ELEMENT Coche (CodigoCoche, Marca, Modelo, Matricula, Potencia, Plazas, NumeroPuertas)>
+  <!ELEMENT CodigoCoche (#PCDATA)>
+  <!ELEMENT Marca (#PCDATA)>
+  <!ELEMENT Modelo (#PCDATA)>
+  <!ELEMENT Matricula (#PCDATA)>
+  <!ELEMENT Potencia (#PCDATA)>
+  <!ELEMENT Plazas (#PCDATA)>
+  <!ELEMENT NumeroPuertas (#PCDATA)>
+]>

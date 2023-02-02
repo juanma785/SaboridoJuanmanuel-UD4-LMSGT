@@ -1,0 +1,12 @@
+<!ELEMENT ventas (descripcion, fecha, cabecera, regiones)>
+<!ELEMENT descripcion (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT cabecera (#PCDATA)>
+<!ELEMENT regiones (region+)>
+<!ELEMENT region (nombre, trimestres)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT trimestres (trimestre+)>
+<!ELEMENT trimestre (numero, libros)>
+<!ELEMENT numero (#PCDATA)>
+<!ELEMENT libros (#PCDATA)>
+

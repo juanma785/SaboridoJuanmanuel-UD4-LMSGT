@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+version="0.1" xml:lang="es">
+  <xs:element name="librerias" type="LibreriasType"/>
+  <xs:complexType name="LibreriasType">
+    <xs:sequence>
+      <xs:element name="libro" type="LibroType" maxOccurs="unbounded"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="LibroType">
+    <xs:sequence>
+      <xs:element name="título" type="xs:string" />
+      <xs:element name="autor" type="AutorType" />
+      <xs:element name="editoriales" type="xs:string" />
+      <xs:element name="ISBN" type="xs:string" />
+      <xs:element name="fecha-publicación" type="xs:string" />
+    </xs:sequence>
+    <xs:attribute name="id" type="xs:integer" use="required"/>
+  </xs:complexType>
+  <xs:complexType name="AutorType">
+    <xs:sequence>
+      <xs:element name="nombre" type="xs:string"/>
+      <xs:element name="apellido" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
